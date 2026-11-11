@@ -1,2 +1,7 @@
-# DASHBOARD-DE-VENTAS
-Proyecto Práctico en donde una empresa comercial en Ecuador vende productos de tres categorías: Beauty, Clothing y Electronics. La gerencia necesita conocer cómo se comportaron las ventas durante 2022 y 2023 para identificar oportunidades de mejora y decidir en qué áreas enfocarse el siguiente año.
+# Proyecto 1: Análisis de ventas – Retail Sales
+
+# Contexto
+Una empresa comercial en Ecuador vende productos de tres categorías: Beauty, Clothing y Electronics. La gerencia necesita conocer cómo se comportaron las ventas durante 2022 y 2023 para identificar oportunidades de mejora y decidir en qué áreas enfocarse el siguiente año.
+
+# Objetivo
+Analizar las ventas, los clientes y las categorías de productos durante 2022 y 2023 para identificar cambios y oportunidades de mejora para el negocio.
